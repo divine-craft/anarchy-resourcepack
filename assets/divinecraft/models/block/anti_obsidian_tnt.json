@@ -1,12 +1,12 @@
 {
 
 	"textures": {
-		"0": "block/tnt_низ",
-		"1": "block/tnt_бока",
-		"2": "block/tnt_верх",
-		"3": "block/Таймер",
-		"4": "block/Лента",
-		"particle": "block/tnt_низ"
+		"0": "block/tnt_doen",
+		"1": "block/tnt_side",
+		"2": "block/tnt_up",
+		"3": "block/timer",
+		"4": "block/lenta",
+		"particle": "block/tnt_down"
 	},
 	"elements": [
 		{

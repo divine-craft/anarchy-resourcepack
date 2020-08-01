@@ -1,7 +1,7 @@
 {
 
 	"textures": {
-		"0": "block/tnt_doen",
+		"0": "block/tnt_down",
 		"1": "block/tnt_side",
 		"2": "block/tnt_up",
 		"3": "block/timer",

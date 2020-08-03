@@ -2,17 +2,17 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "items/diamond_sword",
-		"3": "block/shield1",
-		"4": "block/shield2",
-		"5": "block/shield3",
-		"6": "block/shield4",
-		"7": "block/up_clanblock_private",
-		"8": "block/shield5",
-		"10": "block/side_clanblock_private",
-		"11": "block/down_clanblock_private",
-		"12": "block/side_1_clanblock_private",
-		"layer0": "block/diamond_pickaxe",
-		"particle": "block/diamond_sword"
+		"3": "divinecraft:block/shield1",
+		"4": "divinecraft:block/shield2",
+		"5": "divinecraft:block/shield3",
+		"6": "divinecraft:block/shield4",
+		"7": "divinecraft:block/up_clanblock_private",
+		"8": "divinecraft:block/shield5",
+		"10": "divinecraft:block/side_clanblock_private",
+		"11": "divinecraft:block/down_clanblock_private",
+		"12": "divinecraft:block/side_1_clanblock_private",
+		"layer0": "items/diamond_pickaxe",
+		"particle": "items/diamond_sword"
 	},
 	"elements": [
 		{

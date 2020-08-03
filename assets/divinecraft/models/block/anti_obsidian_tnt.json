@@ -4,8 +4,8 @@
 		"0": "divinecraft:block/tnt_down",
 		"1": "divinecraft:block/tnt_side",
 		"2": "divinecraft:block/tnt_up",
-		"3": "divinecraft:block/timer",
-		"4": "divinecraft:block/lenta",
+		"3": "divinecraft:block/tnt_timer",
+		"4": "divinecraft:block/tnt_tape",
 		"particle": "divinecraft:block/tnt_down"
 	},
 	"elements": [

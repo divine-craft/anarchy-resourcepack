@@ -1,6 +1,6 @@
 {
     "parent": "divinecraft:block/abstract_custom_tnt",
     "textures": {
-        "4": "divinecraft:block/tnt_tape_anti_obsidian"
+        "4": "divinecraft:block/anti_obsidian_tnt_tape"
     }
 }

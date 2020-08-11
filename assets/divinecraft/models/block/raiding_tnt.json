@@ -1,6 +1,6 @@
 {
     "parent": "divinecraft:block/abstract_custom_tnt",
     "textures": {
-        "4": "divinecraft:block/tnt_tape_raiding"
+        "4": "divinecraft:block/raiding_tnt_tape"
     }
 }

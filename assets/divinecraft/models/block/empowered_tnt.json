@@ -1,6 +1,6 @@
 {
     "parent": "divinecraft:block/abstract_custom_tnt",
     "textures": {
-        "4": "divinecraft:block/tnt_tape_empowered"
+        "4": "divinecraft:block/empowered_tnt_tape"
     }
 }

@@ -1,9 +1,9 @@
 {
 
 	"textures": {
-		"0": "divinecaft:block/mantrap_1",
-		"1": "divinecaft:block/mantrap_2",
-		"particle": "blocks/mantrap_1"
+		"0": "divinecraft:block/mantrap_1",
+		"1": "divinecraft:block/mantrap_2",
+		"particle": "divinecraft:block/mantrap_1"
 	},
 	"elements": [
 		{

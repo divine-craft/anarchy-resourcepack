@@ -6,3 +6,13 @@ Damage,Model
 32,divinecraft:block/clanblock_private
 64,divinecraft:block/mantrap_opened
 65,divinecraft:block/mantrap_closed
+67,divinecraft:block/thorns_hidden
+68,divinecraft:block/thorns_shown
+72,divinecraft:block/tesla_trap_disabled
+73,divinecraft:block/tesla_trap_enabled
+96,divinecraft:block/arrow_turret_awaiting
+97,divinecraft:block/arrow_turret_shooting
+98,divinecraft:block/fire_turret_awaiting
+99,divinecraft:block/fire_turret_shooting
+100,divinecraft:block/laser_turret_awaiting
+101,divinecraft:block/laser_turret_shooting

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "divinecraft:block/tesla_ pillar",
-		"1": "divinecraft:block/tesla_ ball_2",
-		"2": "divinecraft:block/tesla_ ball_1",
+		"0": "divinecraft:block/tesla_pillar",
+		"1": "divinecraft:block/tesla_ball_2",
+		"2": "divinecraft:block/tesla_ball_1",
 		"3": "divinecraft:block/tesla_base",
 		"5": "divinecraft:block/spark_1",
 		"6": "divinecraft:block/spark_2",
@@ -18,7 +18,7 @@
 		"16": "divinecraft:block/spark_12",
 		"17": "divinecraft:block/spark_13",
 		"18": "divinecraft:block/spark_5",
-		"particle": "divinecraft:block/tesla_ pillar"
+		"particle": "divinecraft:block/tesla_pillar"
 	},
 	"elements": [
 		{

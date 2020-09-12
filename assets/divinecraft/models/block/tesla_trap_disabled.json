@@ -1,11 +1,11 @@
 {
 	
 	"textures": {
-		"0": "divinecraft:block/tesla_ pillar",
-		"1": "divinecraft:block/tesla_ ball_2",
-		"2": "divinecraft:block/tesla_ ball_1",
+		"0": "divinecraft:block/tesla_pillar",
+		"1": "divinecraft:block/tesla_ball_2",
+		"2": "divinecraft:block/tesla_ball_1",
 		"3": "divinecraft:block/tesla_base",
-		"particle": "block/divinecraft:tesla_ pillar"
+		"particle": "divinecraft:block/tesla_ pillar"
 	},
 	"elements": [
 		{

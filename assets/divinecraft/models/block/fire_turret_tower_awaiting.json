@@ -4,7 +4,7 @@
 		"0": "divinecraft:block/fire_turret_orb",
 		"particle": "divinecraft:block/fire_turret_orb_closed",
 		"1_0": "divinecraft:block/fire_turret_orb_closed",
-		"1_3": "divinecraft:block/fire_turret_up_pedistal_closed"
+		"1_3": "divinecraft:block/fire_turret_up_stand_closed"
 	},
 	"elements": [
 		{

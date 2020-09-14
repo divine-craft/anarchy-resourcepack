@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "divinecraft:block/fire_turret_orb",
-		"3": "divinecraft:block/fire_turret_up_pedistal",
-		"particle": "divinecraft:block/fire_turret_up_pedistal"
+		"3": "divinecraft:block/fire_turret_up_stand",
+		"particle": "divinecraft:block/fire_turret_up_stand"
 	},
 	"elements": [
 		{

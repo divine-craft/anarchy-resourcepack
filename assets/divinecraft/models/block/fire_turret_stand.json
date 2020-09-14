@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "divinecraft:block/fire_turret_pedestal",
-		"2": "divinecraft:block/fire_turret_pedestal_2",
-		"particle": "divinecraft:block/fire_turret_pedesta_2"
+		"1": "divinecraft:block/fire_turret_stand",
+		"2": "divinecraft:block/fire_turret_stand_2",
+		"particle": "divinecraft:block/fire_turret_stand_2"
 	},
 	"elements": [
 		{

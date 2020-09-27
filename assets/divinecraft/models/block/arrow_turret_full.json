@@ -7,7 +7,7 @@
 		"4": "divinecraft:block/arrow_turret_down",
 		"5": "divinecraft:block/arrow_turret_inside ",
 		"6": "divinecraft:block/arrow_turret_gun",
-		"particle": "block/arrow_turret_side"
+		"particle": "divinecraft:block/arrow_turret_side"
 	},
 	"elements": [
 		{

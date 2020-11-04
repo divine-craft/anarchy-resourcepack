@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "divinecraft:block/mantrap_1",
 		"1": "divinecraft:block/mantrap_2",
-		"particle": "divinecraft:block/mantrap"
+		"particle": "divinecraft:block/mantrap_1"
 	},
 	"elements": [
 		{

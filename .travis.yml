@@ -4,8 +4,8 @@ language: python
 script: ./scripts/generate_resourcepacks.sh
 
 before_deploy:
-  - sha1sum ./target/resourcepack_v3.zip > ./target/resourcepack_v3.zip.sha1
-  - sha1sum ./target/resourcepack_v4.zip > ./target/resourcepack_v4.zip.sha1
+  - sha1sum ./target/resourcepack_v3.zip | cut -b -32 > ./target/resourcepack_v3.zip.sha1
+  - sha1sum ./target/resourcepack_v4.zip | cut -b -32 > ./target/resourcepack_v4.zip.sha1
 
 deploy:
   provider: releases

@@ -14,4 +14,5 @@ jobs:
       - name: Generate artifacts
         uses: actions/upload-artifact@v2
         with:
+          name: Resourcepacks
           path: target/resourcepack_v*.zip

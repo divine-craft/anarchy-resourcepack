@@ -11,7 +11,7 @@ jobs:
       - name: Generate resourcepacks
         run: $GITHUB_WORKSPACE/scripts/generate_resourcepacks.sh
 
-      - name: Generate artifacts
+      - name: Upload artifacts
         uses: actions/upload-artifact@v2
         with:
           name: Resourcepacks

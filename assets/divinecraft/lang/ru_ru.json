@@ -1,12 +1,12 @@
 {
-  "block.divinecraft.empowered_tnt": "Усиленный динамит",
-  "block.divinecraft.poisoning_tnt": "Отравляющий динами",
-  "block.divinecraft.anti_obsidian_tnt": "Анти-обсидиановый динамит",
-  "block.divinecraft.raiding_tnt": "Рейдовый динамит",
-  "block.divinecraft.mantrap": "Капкан",
-  "block.divinecraft.thorns": "Шипы",
-  "block.divinecraft.tesla_trap": "Ловушка Теслы",
-  "block.divinecraft.arrow_turret": "Турель со стрелами",
-  "block.divinecraft.fire_turret": "Огненная турель",
-  "block.divinecraft.laser_turret": "Лазерная турель"
+  "block.divinecraft.empowered_tnt": "§fУсиленный динамит",
+  "block.divinecraft.poisoning_tnt": "§fОтравляющий динами",
+  "block.divinecraft.anti_obsidian_tnt": "§fАнти-обсидиановый динамит",
+  "block.divinecraft.raiding_tnt": "§fРейдовый динамит",
+  "block.divinecraft.mantrap": "§fКапкан",
+  "block.divinecraft.thorns": "§fШипы",
+  "block.divinecraft.tesla_trap": "§fЛовушка Теслы",
+  "block.divinecraft.arrow_turret": "§fТурель со стрелами",
+  "block.divinecraft.fire_turret": "§fОгненная турель",
+  "block.divinecraft.laser_turret": "§fЛазерная турель"
 }

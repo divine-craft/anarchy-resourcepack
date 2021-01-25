@@ -1,0 +1,12 @@
+{
+  "block.divinecraft.empowered_tnt": "§fEmpowered TNT",
+  "block.divinecraft.poisoning_tnt": "§fPoisoning TNT",
+  "block.divinecraft.anti_obsidian_tnt": "§fAnti-Obsidian TNT",
+  "block.divinecraft.raiding_tnt": "§fRaiding TNT",
+  "block.divinecraft.mantrap": "§fMantrap",
+  "block.divinecraft.thorns": "§fThorns",
+  "block.divinecraft.tesla_trap": "§fTesla trap",
+  "block.divinecraft.arrow_turret": "§fArrow turret",
+  "block.divinecraft.fire_turret": "§fFire turret",
+  "block.divinecraft.laser_turret": "§fLaser turret"
+}

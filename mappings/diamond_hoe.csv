@@ -11,13 +11,13 @@ Damage,Model
 72,divinecraft:block/tesla_trap_disabled
 73,divinecraft:block/tesla_trap_enabled
 96,divinecraft:block/arrow_turret_full
-97,divinecraft:block/arrow_turret_stand_shooting
-98,divinecraft:block/arrow_turret_stand_awaiting
+97,divinecraft:block/arrow_turret_stand_awaiting
+98,divinecraft:block/arrow_turret_stand_shooting
 99,divinecraft:block/arrow_turret_tower
 100,divinecraft:block/fire_turret_full
 101,divinecraft:block/fire_turret_stand
-102,divinecraft:block/fire_turret_tower_shooting
-103,divinecraft:block/fire_turret_tower_awaiting
+102,divinecraft:block/fire_turret_tower_awaiting
+103,divinecraft:block/fire_turret_tower_shooting
 104,divinecraft:block/laser_turret_full
 105,divinecraft:block/laser_turret_stand_awaiting
 106,divinecraft:block/laser_turret_stand_shooting

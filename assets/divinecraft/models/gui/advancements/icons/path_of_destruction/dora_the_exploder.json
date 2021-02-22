@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "divinecraft:gui/advancements/icons/path_of_destruction/dora_the_exploder"
+  }
+}

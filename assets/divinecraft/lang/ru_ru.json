@@ -44,5 +44,6 @@
   "block.divinecraft.tesla_trap": "§fЛовушка Теслы",
   "block.divinecraft.arrow_turret": "§fТурель со стрелами",
   "block.divinecraft.fire_turret": "§fОгненная турель",
-  "block.divinecraft.laser_turret": "§fЛазерная турель"
+  "block.divinecraft.laser_turret": "§fЛазерная турель",
+  "item.divinecraft.trap_locator": "§fИскатель ловушек"
 }

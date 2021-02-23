@@ -44,5 +44,6 @@
   "block.divinecraft.tesla_trap": "§fTesla trap",
   "block.divinecraft.arrow_turret": "§fArrow turret",
   "block.divinecraft.fire_turret": "§fFire turret",
-  "block.divinecraft.laser_turret": "§fLaser turret"
+  "block.divinecraft.laser_turret": "§fLaser turret",
+  "item.divinecraft.trap_locator": "§fTrap locator"
 }

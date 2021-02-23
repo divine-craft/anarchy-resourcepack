@@ -5,7 +5,6 @@
 		"1": "divinecraft:block/arrow_turret_up",
 		"3": "divinecraft:block/arrow_turret_radar",
 		"4": "divinecraft:block/arrow_turret_down",
-		"5": "divinecraft:block/arrow_turret_inside",
 		"particle": "divinecraft:block/arrow_turret_side"
 	},
 	"elements": [
@@ -14,11 +13,10 @@
 			"to": [16, 13, 16],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 13], "texture": "#0"},
-				"east": {"uv": [0, 0, 16, 13], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 13], "texture": "#0"},
 				"south": {"uv": [0, 0, 16, 13], "texture": "#0"},
-				"west": {"uv": [0, 0, 16, 13], "texture": "#0"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#5"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#4"}
+				"west": {"uv": [0, 0, 16, 13], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#4"}
 			}
 		},
 		{
@@ -30,8 +28,7 @@
 				"east": {"uv": [0, 13, 16, 16], "texture": "#0"},
 				"south": {"uv": [0, 13, 16, 16], "texture": "#0"},
 				"west": {"uv": [0, 13, 16, 16], "texture": "#0"},
-				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#1"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#5"}
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#1"}
 			}
 		}
 	],

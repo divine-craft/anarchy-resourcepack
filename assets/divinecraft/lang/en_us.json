@@ -35,6 +35,8 @@
   "advancement.divinecraft.its_a_trap.shocking.description": "Get a tesla trap",
   "advancement.divinecraft.its_a_trap.jopers_trap.title": "Joper's Trap",
   "advancement.divinecraft.its_a_trap.jopers_trap.description": "Get all existing trap types",
+  "advancement.divinecraft.its_a_trap.uncatchable.title": "Uncatchable",
+  "advancement.divinecraft.its_a_trap.uncatchable.description": "Get a trap locator",
   "block.divinecraft.empowered_tnt": "§fEmpowered TNT",
   "block.divinecraft.poisoning_tnt": "§fPoisoning TNT",
   "block.divinecraft.anti_obsidian_tnt": "§fAnti-Obsidian TNT",

@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "dmitrykersh:basic_luckyblock/basic_luckyblock_side",
-		"1": "dmitrykersh:basic_luckyblock/basic_luckyblock_top",
+		"0": "divinecraft:block/basic_luckyblock_side",
+		"1": "divinecraft:block/basic_luckyblock_top",
 		"particle": "dmitrykersh:basic_luckyblock/basic_luckyblock_side"
 	},
 	"elements": [

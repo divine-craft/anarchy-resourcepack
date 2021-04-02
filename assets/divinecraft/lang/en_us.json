@@ -47,5 +47,7 @@
   "block.divinecraft.arrow_turret": "§fArrow turret",
   "block.divinecraft.fire_turret": "§fFire turret",
   "block.divinecraft.laser_turret": "§fLaser turret",
+  "block.dmitrykersh.basic_luckyblock": "§fBasic luckyblock",
+  "block.dmitrykersh.allin_luckyblock": "§fALL-IN luckyblock",
   "item.divinecraft.trap_locator": "§fTrap locator"
 }

@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "divinecraft:block/basic_luckyblock_side",
 		"1": "divinecraft:block/basic_luckyblock_top",
-		"particle": "dmitrykersh:basic_luckyblock/basic_luckyblock_side"
+		"particle": "divinecraft:block/basic_luckyblock_side"
 	},
 	"elements": [
 		{

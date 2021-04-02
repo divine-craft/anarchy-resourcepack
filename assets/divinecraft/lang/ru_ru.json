@@ -47,7 +47,7 @@
   "block.divinecraft.arrow_turret": "§fТурель со стрелами",
   "block.divinecraft.fire_turret": "§fОгненная турель",
   "block.divinecraft.laser_turret": "§fЛазерная турель",
-  "block.dmitrykersh.basic_luckyblock": "§fОбычный лаки-блок",
-  "block.dmitrykersh.allin_luckyblock": "§fЛаки-блок \"Всё или ничего\"",
+  "block.divinecraft.basic_luckyblock": "§fОбычный лаки-блок",
+  "block.divinecraft.allin_luckyblock": "§fЛаки-блок \"Всё или ничего\"",
   "item.divinecraft.trap_locator": "§fИскатель ловушек"
 }

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "divinecraft:block/basic_lucky_block_side",
-		"1": "divinecraft:block/basic_lucky_block_top",
-		"particle": "divinecraft:block/basic_lucky_block_side"
+		"0": "",
+		"1": "",
+		"particle": ""
 	},
 	"elements": [
 		{

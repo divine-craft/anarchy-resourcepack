@@ -1,4 +1,10 @@
 {
+  "advancement.divinecraft.gambler.root.title": "Испытай удачу",
+  "advancement.divinecraft.gambler.root.description": "Испытай удачу",
+  "advancement.divinecraft.gambler.beginner.title": "Обычный лаки-блок",
+  "advancement.divinecraft.gambler.beginner.description": "Е*аный рот этого казино",
+  "advancement.divinecraft.gambler.beginner.title": "Ставка - все!",
+  "advancement.divinecraft.gambler.beginner.description": "Шанс один к двадцати",
   "advancement.divinecraft.path_of_destruction.root.title": "Путь Уничтожения",
   "advancement.divinecraft.path_of_destruction.root.description": "Время поэкспериментировать с динамитом",
   "advancement.divinecraft.path_of_destruction.mediocrity.title": "Посредственность",
@@ -47,5 +53,7 @@
   "block.divinecraft.arrow_turret": "§fТурель со стрелами",
   "block.divinecraft.fire_turret": "§fОгненная турель",
   "block.divinecraft.laser_turret": "§fЛазерная турель",
+  "block.divinecraft.basic_lucky_block": "§fОбычный лаки-блок",
+  "block.divinecraft.allin_lucky_block": "§fЛаки-блок \"Всё или ничего\"",
   "item.divinecraft.trap_locator": "§fИскатель ловушек"
 }

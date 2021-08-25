@@ -1,4 +1,10 @@
 {
+  "advancement.divinecraft.gambler.root.title": "Gambler",
+  "advancement.divinecraft.gambler.root.description": "Time to gamble",
+  "advancement.divinecraft.gambler.beginner.title": "Easy lottery",
+  "advancement.divinecraft.gambler.beginner.description": "Yobani rot etogo casino",
+  "advancement.divinecraft.gambler.beginner.title": "All-in!",
+  "advancement.divinecraft.gambler.beginner.description": "1/20 chance",
   "advancement.divinecraft.path_of_destruction.root.title": "Path of Destruction",
   "advancement.divinecraft.path_of_destruction.root.description": "Time to have some fun with TNT",
   "advancement.divinecraft.path_of_destruction.mediocrity.title": "Mediocrity",
@@ -47,5 +53,7 @@
   "block.divinecraft.arrow_turret": "§fArrow turret",
   "block.divinecraft.fire_turret": "§fFire turret",
   "block.divinecraft.laser_turret": "§fLaser turret",
+  "block.divinecraft.basic_lucky_block": "§fBasic luckyblock",
+  "block.divinecraft.allin_lucky_block": "§fALL-IN luckyblock",
   "item.divinecraft.trap_locator": "§fTrap locator"
 }
